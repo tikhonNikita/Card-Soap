@@ -1,7 +1,7 @@
-#How to run Frontend app
+# How to run Frontend app
 Run `yarn` (or `npm`). Then run `yarn start`, browser will open automatically.
 
-#How to run Backend app
+# How to run Backend app
 Run `yarn` (or `npm`). Then run `yarn start`, browser will open automatically.
 
 ### Tests
