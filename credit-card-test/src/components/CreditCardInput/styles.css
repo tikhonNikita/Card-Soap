@@ -1,0 +1,35 @@
+.card__container {
+    padding: 15px;
+    width: 205px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 10px 34px -18px #000000;
+    border-style: solid;
+    border-width: 1px;
+    border-image-source: linear-gradient(45deg, rgb(255,255,104), rgb(250,224,66));
+    border-image-slice: 1;
+}
+
+.card__input {
+    text-align: start;
+    width: 160px;
+    border-style: none;
+    outline: none;
+}
+
+.card__icon {
+    height: 20px;
+}
+
+.card__error {
+    font-size: 10px;
+    width: 100px;
+    position: absolute;
+    margin-top: 40px;
+}
+
+.error {
+    border-image-source: linear-gradient(45deg, rgb(255,0,0), rgb(250,0,0));
+    color: red;
+}
